@@ -1,0 +1,17 @@
+.dimension{
+    width: 250px;
+}
+
+.title{
+    font-weight: bolder;
+    width: fit-content;
+}
+
+.title:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.dimension:hover{
+    cursor: pointer;
+}
